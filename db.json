@@ -1,0 +1,15 @@
+{
+	"users": [
+		{
+			"id": 124,
+			"login": "username",
+			"password": "$2a$12$gGh1jjQOx7XZg2KJjA9iiOeD./Jk.1p480mUlJMztlTCIVC/ahPWG",
+			"data": {
+				"id": 124,
+				"name": "Илья",
+				"email": "ilya@gmail.com",
+				"avatar": "username_1.jpg"
+			}
+		}
+	]
+}
